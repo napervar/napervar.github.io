@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://napervar.github.io/sitemap.napervar.gz
+Sitemap: https://napervar.github.io/app/sitemap.napervar.gz
+Sitemap: https://napervar.github.io/assets/sitemap.napervar.gz
+Sitemap: https://napervar.github.io/css/sitemap.napervar.gz
+Sitemap: https://napervar.github.io/data/sitemap.napervar.gz
+Sitemap: https://napervar.github.io/includes/sitemap.napervar.gz
+Sitemap: https://napervar.github.io/item/sitemap.napervar.gz
+Sitemap: https://napervar.github.io/src/sitemap.napervar.gz
